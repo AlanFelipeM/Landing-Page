@@ -4,8 +4,7 @@
 }
 
 body {
-  background-image: url(./images/backgroundLp.png);
-  background-color: rgba(19, 18, 18, 0.9450980392);
+  background-image: url(images/backgroundLp.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: right;
